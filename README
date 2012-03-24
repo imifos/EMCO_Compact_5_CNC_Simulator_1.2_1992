@@ -1,0 +1,34 @@
+EMCO Compact 5 CNC Simulator 1.2 / anno 1992
+--------------------------------------------
+
+Programm   : Tasha Carl
+Compiler   : MS C6 Model MEDIUM (DATA NEAR/CODE FAR)
+Release    : 04/1992
+  
+http://www.lucubratory.eu/projects/emco-compact-5-cnc-simulator/
+http://carl.pro
+
+Actually, I wrote this graphical EMCO Compact 5 CNC Simulator back in 1992, before I started my studies. The reasons were that I wanted to learn C, after working well in Assembler, BASIC and Pascal, and that I was tired to type my programs manually into the CNC machine.
+
+Afterwards, I recovered the software back from old floppy disks, I googled around and found out that the computer controlled turning lathe still is in use for hobby, training and learning purposes. So I decided to release the software as FLOSS.
+
+It’s translated in German and French (sorry, but at this time, English wasn’t yet an option for me ;) and designed to run on old XT PCs with CGA or VGA cards. This type of PCs was common to find in schools since cheap and at this time often disposed by companies in favor of the "high-end" AT-PC technology. Today, the best solution is to run it using the fantastic DOSBOX emulator, which is available for Windows, Linux and Mac. Note that I never tested if the RS-232 communication is possible using DOSBOX, for example using a USB-to-Serial adapter.
+
+Some key features:
+
+- Works in CGA (displays half of the workpiece) and VGA mode.
+- Able to send and receive CNC programs from the EMCO machine via RS-232 (serial port).
+- Nice program editor with syntax formatting and error check and the possibility to add comments.
+- Supports a lot of working tools.
+- Allows to run a program in step-by-step mode (trace mode).
+- Supports using a second monitor to display the running program by installing a 
+  Hercules graphics card as 2nd video card. This is quite handy while working and 
+  having a PC with two monitors was really impressive and special at this time.
+- Execution speed can be adapted by defining wait cycles in the configuration options.
+  (Yet, this isn't very useful on todays PCs, count on DOSBOX for this.)
+
+License:
+
+This code is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License version 2 only, as published by the Free Software Foundation. 
+
+This code is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License version 2 for more details.
