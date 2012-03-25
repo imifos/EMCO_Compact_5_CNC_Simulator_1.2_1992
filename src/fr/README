@@ -1,0 +1,15 @@
+EMCO Compact 5 CNC Simulator 1.2 / anno 1992
+--------------------------------------------
+
+MS C 6 source codes. FRENCH version.
+
+Entry points:
+\src\de\VGA
+\src\fr\VGA
+\src\de\CGA
+
+License:
+--------
+This code is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License version 2 only, as published by the Free Software Foundation. 
+
+This code is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License version 2 for more details.

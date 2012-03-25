@@ -1,0 +1,22 @@
+﻿PROGRAMME SIMULATEUR CNC Emco Compact 5 V1.2:
+
+CNCSIMVF.EXE : Version VGA du programme en francais 
+CNCSIMVD.EXE : Version VGA en allemand.
+CNCSINCD.EXE : Version CGA en allemand.
+
+Diese Software ist Freeware und kann uneingeschränkt genutzt und verteilt werden, solange sie nicht verändert wird. Benutzung der Anwendung auf eigene Gefahr!  
+Dies ist keine kommerzielle Software. Es wird kein Support geleistet.
+
+Cette Software est libre et peut être utilisée et distribuée sans limites, tant qu'elle n'est pas modifiée. Utilisation de cette application se fait à vos risques et périls. Nous déclinons tout responsabilité pour des dommages causés par l'utilisation de cette application. Ce n'est pas une application commerciale. Pas de support.
+
+This software is freeware and can be used and distributed as long as it is not modified. Usage of this application happens at your own risk! This is not a commercial product. No support is provided. 
+
+Programmed by Tasha CARL / 1992
+http://carl.pro
+
+Notes:
+
+Works very well on old MS-DOS XT PCs, as well as in the DOSBOX application.
+
+
+
