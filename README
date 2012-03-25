@@ -8,6 +8,8 @@ Release    : 04/1992
 http://www.lucubratory.eu/projects/emco-compact-5-cnc-simulator/
 http://carl.pro
 
+Video of the tool in action: https://vimeo.com/39134041
+
 Actually, I wrote this graphical EMCO Compact 5 CNC Simulator back in 1992, before I started my studies. The reasons were that I wanted to learn C, after working well in Assembler, BASIC and Pascal, and that I was tired to type my programs manually into the CNC machine.
 
 Afterwards, I recovered the software back from old floppy disks, I googled around and found out that the computer controlled turning lathe still is in use for hobby, training and learning purposes. So I decided to release the software as FLOSS.
