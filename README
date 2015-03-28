@@ -5,8 +5,9 @@ Programm   : Tasha Carl
 Compiler   : MS C6 Model MEDIUM (DATA NEAR/CODE FAR)
 Release    : 04/1992
   
-http://www.lucubratory.eu/projects/emco-compact-5-cnc-simulator/
-http://carl.pro
+https://imifos.github.io/EMCO_Compact_5_CNC_Simulator_1.2_1992/
+
+https://imifos.github.io
 
 Video of the tool in action: https://vimeo.com/39134041
 
@@ -14,7 +15,7 @@ Actually, I wrote this graphical EMCO Compact 5 CNC Simulator back in 1992, befo
 
 Afterwards, I recovered the software back from old floppy disks, I googled around and found out that the computer controlled turning lathe still is in use for hobby, training and learning purposes. So I decided to release the software as FLOSS.
 
-It’s translated in German and French (sorry, but at this time, English wasn’t yet an option for me ;) and designed to run on old XT PCs with CGA or VGA cards. This type of PCs was common to find in schools since cheap and at this time often disposed by companies in favor of the "high-end" AT-PC technology. Today, the best solution is to run it using the fantastic DOSBOX emulator, which is available for Windows, Linux and Mac. Note that I never tested if the RS-232 communication is possible using DOSBOX, for example using a USB-to-Serial adapter.
+Itâ€™s translated in German and French (sorry, but at this time, English wasnâ€™t yet an option for me ;) and designed to run on old XT PCs with CGA or VGA cards. This type of PCs was common to find in schools since cheap and at this time often disposed by companies in favor of the "high-end" AT-PC technology. Today, the best solution is to run it using the fantastic DOSBOX emulator, which is available for Windows, Linux and Mac. Note that I never tested if the RS-232 communication is possible using DOSBOX, for example using a USB-to-Serial adapter.
 
 Some key features:
 
